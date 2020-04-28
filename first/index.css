@@ -4,6 +4,13 @@
     background-color:  gray;
 }
 
+.main body {
+    height: 75%;
+    width: 77%;
+    background-color: white;
+    float: center;
+}
+
 .body {
     height: 100%; 
     width: 100%;
@@ -16,10 +23,3 @@
     background-color: black;
     float: center;
 } 
-
-.main body {
-    height: 75%;
-    width: 77%;
-    background-color: white;
-    float: center;
-}
