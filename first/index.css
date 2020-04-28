@@ -5,8 +5,8 @@
 }
 
 .body {
-    height: 1000px; 
-    width: 250px;
+    height: 100%; 
+    width: 100%;
     background-color: lightgray;
 }
 
@@ -17,3 +17,9 @@
     float: center;
 } 
 
+.main body {
+    height: 75%;
+    width: 77%;
+    background-color: white;
+    float: center;
+}
