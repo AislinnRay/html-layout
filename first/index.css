@@ -1,28 +1,26 @@
 .header {
-    height: 250px;
-    width: device-width;
+    height: 20vh;
+    width: 100%;
     background-color:  gray;
+}
+
+.body {
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(167, 167, 167);
 }
 
 .main-body {
     height: 70vh;
     width: 75%;
     background-color: rgb(221, 229, 236);
-    float: center;
     margin: 0 auto;
-}
-
-.body {
-    height: 100vh; 
-    width: 100%;
-    background-color: rgb(167, 167, 167);
-    margin: 0;
 }
 
 .footer {
-    height: 150px;
-    width: 750px;
+    height: 10vh;
+    width: 75%;
     background-color: black;
-    float: center;
     margin: 0 auto;
-} 
+}
