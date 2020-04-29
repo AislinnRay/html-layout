@@ -1,0 +1,47 @@
+.body {
+    width: 100vw;
+    height: 100vh;
+    background-color: blueviolet;
+}
+
+.header {
+    height: 10vh;
+    width: 100vw;
+    background-color: gray;
+}
+
+.icon {
+    height: 70%;
+    width: 5%;
+    background-color: blue;
+}
+
+.one {
+    height: 15vh;
+    width: 100vw;
+    background-color: white;
+}
+
+.two {
+    height: 15vh;
+    width: 100vw;
+    background-color: blue;
+}
+
+.three {
+    height: 15vh;
+    width: 100vw;
+    background-color: teal;
+}
+
+.four {
+    height: 15vh;
+    width: 100vw;
+    background-color: palegreen;
+}
+
+.five {
+    height: 15vh;
+    width: 100vw;
+    background-color: gold;
+}
