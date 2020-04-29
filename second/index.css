@@ -1,5 +1,5 @@
 .large-bold-box {
-    width: 70vw;
+    width: 80vw;
     height: 40vh;
     padding: 10px auto;
     margin: 10px auto;
@@ -7,7 +7,7 @@
 }
 
 .large-dash-box {
-    width: 70vw;
+    width: 80vw;
     height: 50vh;
     padding: 10px auto;
     margin: 10px auto;
@@ -22,10 +22,17 @@
     margin: 10px auto;
     border: 1px solid black; 
     filter: drop-shadow(5px 10px 4px #292935);
-    font-size: 24px auto;
+    font-family: 'courier new';
+    letter-spacing: 15px;
+    font-size: 40px;
     font-weight: 700;
-    line-height: 30px;
+    text-align: center;
+    line-height: 7em;
     color: darkblue;
+}
+
+.purple-box, .green-box, .blue-circle {
+    display: inline-block;
 }
 
 .purple-box {
@@ -39,7 +46,7 @@
 .green-box {
     width: 40vw;
     height: 35vh;
-    margin: 10px auto;
+    margin: 20px auto;
     background: palegreen;
     float: inline;
 }
@@ -48,7 +55,7 @@
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    margin: 10px auto;
+    margin: 30px auto;
     background: rgb(51, 87, 153);
     float: inline-end;
 }
